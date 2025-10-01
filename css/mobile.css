@@ -1,0 +1,32 @@
+@media (max-width: 1600px) {
+  .container {
+    width: 70%;
+  }
+
+  .nav-right {
+    width: 60%;
+  }
+}
+@media (max-width: 1200px) {
+  .container {
+    width: 80%;
+  }
+
+  .nav-right {
+    width: 65%;
+  }
+}
+@media (max-width: 900px) {
+  .nav-right {
+    display: none;
+  }
+  .btn-left_bar {
+    display: flex;
+  }
+}
+@media (max-width: 600px) {
+  .footer {
+    flex-direction: column;
+    height: 20vh;
+  }
+}

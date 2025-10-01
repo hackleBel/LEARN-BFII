@@ -1,0 +1,17 @@
+.DarkTheme {
+ --bg-body: #000;
+ --bg-btn: #4444441e;
+ --color-text: #fff;
+ --color-shodow: #fff;
+ --color-border: rgba(119, 119, 119, 0.2);
+ --svg-invert: 100%;
+}
+
+.LightTheme {
+ --bg-body: #fff;
+ --bg-btn: #fff;
+ --color-text: #000;
+ --color-shodow: #fff;
+ --color-border: rgb(128, 128, 128);
+ --svg-invert: 0%;
+}

@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 0 0 12px 12px;
+}
+
+.nav-right {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.btn-left_bar {
+ display: none;
+}
